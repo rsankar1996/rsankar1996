@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rsankar1996. OOPS, that's my username. You can call me Rakesh S.
-- 👀 I’m currently working at Microchip Chennai as an Embedded Developer.
 - 🌱 I’m currently learning Python and C++, but my projects may not be alligned with these, it can be anything under the sky.
 - 📫 How to reach me? Hmmm, that's an interesting question. You can drop a mail @ s.rakesh@outlook.in
 
